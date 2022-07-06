@@ -1,3 +1,17 @@
+## JOBS-API
+<hr>
+<h1> <a href="https://jobs-api-6800.herokuapp.com/#/"> API- Link </a> </h1> 
+<h3> ✅ My First Backend API Project Buit Using NodeJs ExpressJs MongoDb </h3>
+<h3> ✅ Can be consumed for Frontend Project like <a href="https://react-jobs-app.netlify.app/"> JobIO-React-Project </a> </h3>
+<h3> ✅ Please visit above Documentation link for further details about Implementation </h3>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/63772127/177473274-7bb78f5a-cec2-49e5-b1d9-de9c92f5ad43.png)  </br>
+
+![image](https://user-images.githubusercontent.com/63772127/177475066-58f0bdd7-9863-4b0a-b2ec-47fd422783c1.png)
+
+
 #### Setup
 
 ```bash
@@ -68,26 +82,3 @@ Swagger UI
       description: the job id
 ```
 
-
-# FOLDER STRUCTURE
-
-README.MD
-
-app.js
-package.lock.json
-package.json
-gitignore
-
-db
-routes
-controllers
-model
-errors
-middleware
-
-
-# PROJECT LOGIC
-
-create user/login user
-create token for user and send id,name,payload in token
-token will be store in localstorage
