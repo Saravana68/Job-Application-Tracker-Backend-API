@@ -43,7 +43,7 @@ app.use(cors());
 app.use(xss());
 
 
-app.use('/', swaggerUI.serve, swaggerUI.setup(swaggerDocument));
+app.use('/docs', swaggerUI.serve, swaggerUI.setup(swaggerDocument));
 
 app.get('/', (req, res) => {
   res.status(200).json({ success: true, msg: 'Hello Test user1' });
