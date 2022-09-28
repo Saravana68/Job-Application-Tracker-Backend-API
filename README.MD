@@ -4,6 +4,7 @@
 - 💡 &nbsp; Job Application Tracker Backend API that can be consumed for any kind of Frontend Job Application tracker applications.
 - 💡 &nbsp; One of My Major Project that I've built after learning Backend development.
 - 💡 &nbsp; Project Hosted in Heroku & Link for project can be seen below.
+- 💡 &nbsp; Frontend App details for this API has been attached below.
 
 ![SARAVANA KUMAR (3)](https://user-images.githubusercontent.com/63772127/192761468-ed39914e-0cfb-49aa-89fd-15ea2d7b0226.jpg)
 
