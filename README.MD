@@ -1,7 +1,8 @@
 <h1 align="center"> Jobify - Job Application Tracker Backend API | 2022  </h1>
 
 ### ✅ ABOUT
-- 💡 &nbsp; Job Application Tracker Backend API that can be consumed for any kind of Frontend Job Application tracker applications.
+- 💡 &nbsp; Job Application Tracker Backend API built using NodeJS ExpressJS MongoDB.
+- 💡 &nbsp; can be consumed for any kind of Frontend Job Application tracker applications.
 - 💡 &nbsp; One of My Major Project that I've built after learning Backend development.
 - 💡 &nbsp; Project Hosted in Heroku & Link for project can be seen below.
 - 💡 &nbsp; Frontend App details for this API has been attached below.
