@@ -3,7 +3,7 @@
 
 ### Update ❗ | 31.12.2022 
 
-- Heroku Stopped their free tier service. because of that our API site is no longer active/available. but still you can go the site but documentation page can't be seen. Fortunately I had taken screen shot of my API site, I have attached them below. please have a look.
+- Heroku Stopped their free tier service. because of that our API site is no longer active/available. but still you can go the site but documentation page can't be seen.
 
 - Currently I am looking for some other platforms to host my project. once everything done, I'll update the new site link soon!.
 
